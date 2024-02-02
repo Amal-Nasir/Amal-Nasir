@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Amal</h1>
-<h3 align="center">A PhD candidate in computer science</h3>
+<h1 align="center">Hi 👋, I'm Amal </h1>
+<h3 align="center">A PhD candidate in computer science </h3>
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif">
 
 -  ✨ I am actively seeking a full-time position as a Computer Vision Engineer, Data Scientist, Data Engineer, or Machine Learning Engineer, leveraging strong research and software engineering skills.
+<img align="center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/95185e07-8f10-47db-85ae-b11c472f35ab" width="200">
 
 - 🔭 I’m currently working on **uncertainty projects to quantify model uncertainty**
 
@@ -19,7 +20,9 @@
 
 - 📄 My published work <a href="https://scholar.google.com/citations?hl=en&user=G98w74sAAAAJ&view_op=list_works&gmla=AH70aAURXt9Xma_yFSqE8bhOon3CveymYJ25V6q6Ii1OXrDRkD4QQ39Fn_0lianegNN8QRu3I4b0WN4CpMMG5jjj"> Scholar </a>
 
-- ⚡ Fun fact **I like to bake 🎂 and watch anime ⸜(｡˃ ᵕ ˂ )⸝♡**
+- ⚡ Fun fact **I like to bake 🎂 and watch anime <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="75">** 
+  
+   
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
