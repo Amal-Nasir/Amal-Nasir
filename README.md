@@ -6,7 +6,7 @@
 -  ✨ I am actively seeking a full-time position for summer 2024 as a **Computer Vision Engineer, Data Scientist, Data Engineer, or Machine Learning Engineer**, leveraging strong research and software engineering skills.
 <img align="center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/95185e07-8f10-47db-85ae-b11c472f35ab" width="200">
 
-- 🔭 I’m currently working on **uncertainty projects to quantify model uncertainty**
+- 🔭 I’m currently working on **uncertainty projects to quantify model uncertainty.** To learn more about my work, you can view my research <a href="https://github.com/Amal-Nasir/Amal-Nasir/blob/main/Research%20Statement_2024.pdf"> here </a>
 
 - 🌱 I’m currently learning **generative AI**
 
