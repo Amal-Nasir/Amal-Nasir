@@ -3,7 +3,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif">
 
--  ✨ I am actively seeking a full-time position for summer 2024 as a **Computer Vision Engineer, Data Scientist, Data Engineer, or Machine Learning Engineer**, leveraging strong research and software engineering skills. You can learn more about my expertise <a href="https://github.com/Amal-Nasir/Amal-Nasir/blob/main/Resume_Amal_Almansour_2024.pdf"> here </a>.
+-  ✨ I am actively seeking a full-time position for winter 2025 (Jan 2025) as a **Computer Vision Engineer, Data Scientist, Data Engineer, or Machine Learning Engineer**, leveraging strong research and software engineering skills. You can learn more about my expertise <a href="https://github.com/Amal-Nasir/Amal-Nasir/blob/main/Resume_Amal_Almansour_2024.pdf"> here </a>.
 
 
 - 🔭 I’m currently working on **uncertainty projects to quantify model uncertainty.** To learn more about my work, you can view my research <a href="https://github.com/Amal-Nasir/Amal-Nasir/blob/main/Research%20Statement_2024.pdf"> here </a>.
