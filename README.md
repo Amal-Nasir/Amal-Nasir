@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amal </h1>
-<h3 align="center">A PhD candidate in computer science </h3>
+<h3 align="center">A PhD in computer science </h3>
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif">
 
